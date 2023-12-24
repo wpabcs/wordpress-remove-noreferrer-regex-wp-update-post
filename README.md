@@ -1,0 +1,1 @@
+# wordpress-remove-noreferrer-regex-wp-update-post
